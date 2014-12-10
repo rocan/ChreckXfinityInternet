@@ -28,7 +28,7 @@ def genReportApend(i):
         ConnectionFile.close()
 def sendemail(timeelape,i):
     PST_time = datetime.now(PSTzone)
-    fromaddr='haaahhh@gmail.com'
+    fromaddr='liamgymtnawuoykcufehtyhw@gmail.com'
     toaddrs='chunghr@gmail.com'
     msg = " ".join([" <!DOCTYPE html>",
     "<html>",
