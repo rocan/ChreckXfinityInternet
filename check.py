@@ -49,8 +49,8 @@ def sendemail(timeelape,i):
     "</table>",
     "</body>",
     "</html>"])
-    username = 'haaahhh'
-    password = '946646general'
+    username = 'liamgymtnawuoykcufehtyhw'
+    password = '9YqFUoe2*bU2eEEzH2KR'
     headers = "\r\n".join(["from: " +fromaddr,
                        "subject: " + "Internet state report",
                        "to: " + toaddrs,
